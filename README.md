@@ -1,9 +1,11 @@
 # BetterColor
 Use the color print out in python with easily code function.
 #This is a module for better color display on the print results.
-#
+
 #You can use it by
+    
     from bettercolor import color
+    
     bettercolor.color()
 
 #By using this module,you must input the color/displayMode as
@@ -16,9 +18,10 @@ Use the color print out in python with easily code function.
     exampleVar = display
 
 #Now you can use this color forever.When you need to use it,just ype like this:
-#    print(exampleVar)
-#
+    
+    print(exampleVar)
+
 #Also,You can have a example and check the color/displayMode list in module:
-#    colorHelp
-#
+    colorHelp
+    
 #Enjoy ;)
