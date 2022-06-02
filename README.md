@@ -12,16 +12,19 @@ Use the color print out in python with easily code function.
     ("DisplayMode","FontColor","BackColor")
 
 #And,you should save the color after you get a new color.
+
 #Due to the particularity of the module,the color result is disposable.
 
 #You can use this command to save the color:
+
     exampleVar = display
 
-#Now you can use this color forever.When you need to use it,just ype like this:
+#Now you can use this color forever.When you need to use it,just type like this:
     
     print(exampleVar)
 
 #Also,You can have a example and check the color/displayMode list in module:
+
     colorHelp
     
 #Enjoy ;)
